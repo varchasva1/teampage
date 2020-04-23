@@ -1,0 +1,14 @@
+.header{
+    background-color: blueviolet;
+}
+.top-buffer{
+    margin-top : 20px;
+}
+.img{
+    height:100px;
+    margin-top: 35%;
+    margin-bottom: 35%;
+}
+.border{
+    border-style: double;
+}
